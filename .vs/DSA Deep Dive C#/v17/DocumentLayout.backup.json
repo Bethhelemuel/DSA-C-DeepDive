@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\work\\DSA Deep Dive C#\\",
+  "WorkspaceRootPath": "C:\\work\\DSA-C-DeepDive\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{77D056EE-229A-4BFC-8E85-41EA241764D3}|DSA Deep Dive C#.csproj|c:\\work\\dsa deep dive c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{77D056EE-229A-4BFC-8E85-41EA241764D3}|DSA Deep Dive C#.csproj|c:\\work\\dsa-c-deepdive\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77D056EE-229A-4BFC-8E85-41EA241764D3}|DSA Deep Dive C#.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D056EE-229A-4BFC-8E85-41EA241764D3}|DSA Deep Dive C#.csproj|c:\\work\\dsa-c-deepdive\\algorithms\\strings\\anagram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D056EE-229A-4BFC-8E85-41EA241764D3}|DSA Deep Dive C#.csproj|solutionrelative:algorithms\\strings\\anagram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D056EE-229A-4BFC-8E85-41EA241764D3}|DSA Deep Dive C#.csproj|c:\\work\\dsa-c-deepdive\\patterns\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D056EE-229A-4BFC-8E85-41EA241764D3}|DSA Deep Dive C#.csproj|solutionrelative:patterns\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Anagram.cs",
+              "DocumentMoniker": "C:\\work\\DSA-C-DeepDive\\Algorithms\\Strings\\Anagram.cs",
+              "RelativeDocumentMoniker": "Algorithms\\Strings\\Anagram.cs",
+              "ToolTip": "C:\\work\\DSA-C-DeepDive\\Algorithms\\Strings\\Anagram.cs",
+              "RelativeToolTip": "Algorithms\\Strings\\Anagram.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwCMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T09:13:18.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Singleton.cs",
+              "DocumentMoniker": "C:\\work\\DSA-C-DeepDive\\Patterns\\Singleton.cs",
+              "RelativeDocumentMoniker": "Patterns\\Singleton.cs",
+              "ToolTip": "C:\\work\\DSA-C-DeepDive\\Patterns\\Singleton.cs",
+              "RelativeToolTip": "Patterns\\Singleton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T09:11:56.46Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\work\\DSA Deep Dive C#\\Program.cs",
+              "DocumentMoniker": "C:\\work\\DSA-C-DeepDive\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\work\\DSA Deep Dive C#\\Program.cs",
+              "ToolTip": "C:\\work\\DSA-C-DeepDive\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-11T09:00:25.561Z",
               "EditorCaption": ""

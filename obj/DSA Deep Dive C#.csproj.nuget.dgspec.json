@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\work\\DSA Deep Dive C#\\DSA Deep Dive C#.csproj": {}
+    "C:\\work\\DSA-C-DeepDive\\DSA Deep Dive C#.csproj": {}
   },
   "projects": {
-    "C:\\work\\DSA Deep Dive C#\\DSA Deep Dive C#.csproj": {
+    "C:\\work\\DSA-C-DeepDive\\DSA Deep Dive C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\work\\DSA Deep Dive C#\\DSA Deep Dive C#.csproj",
+        "projectUniqueName": "C:\\work\\DSA-C-DeepDive\\DSA Deep Dive C#.csproj",
         "projectName": "DSA Deep Dive C#",
-        "projectPath": "C:\\work\\DSA Deep Dive C#\\DSA Deep Dive C#.csproj",
+        "projectPath": "C:\\work\\DSA-C-DeepDive\\DSA Deep Dive C#.csproj",
         "packagesPath": "C:\\Users\\DevelopHP2\\.nuget\\packages\\",
-        "outputPath": "C:\\work\\DSA Deep Dive C#\\obj\\",
+        "outputPath": "C:\\work\\DSA-C-DeepDive\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

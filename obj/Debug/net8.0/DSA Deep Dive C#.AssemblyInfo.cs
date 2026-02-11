@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DSA Deep Dive C#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5cae7de5a029f50ae5c9032f0405acbf6a775c99")]
 [assembly: System.Reflection.AssemblyProductAttribute("DSA Deep Dive C#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DSA Deep Dive C#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
