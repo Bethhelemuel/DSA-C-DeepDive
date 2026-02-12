@@ -8,5 +8,7 @@ namespace DSA_Deep_Dive_C_.Patterns
 {
     internal class Singleton
     {
+
+        
     }
 }
