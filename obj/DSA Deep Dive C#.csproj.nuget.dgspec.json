@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\work\\DSA-C-DeepDive\\DSA Deep Dive C#.csproj": {}
+    "/home/scott/work/DSA-C-DeepDive/DSA Deep Dive C#.csproj": {}
   },
   "projects": {
-    "C:\\work\\DSA-C-DeepDive\\DSA Deep Dive C#.csproj": {
+    "/home/scott/work/DSA-C-DeepDive/DSA Deep Dive C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\work\\DSA-C-DeepDive\\DSA Deep Dive C#.csproj",
+        "projectUniqueName": "/home/scott/work/DSA-C-DeepDive/DSA Deep Dive C#.csproj",
         "projectName": "DSA Deep Dive C#",
-        "projectPath": "C:\\work\\DSA-C-DeepDive\\DSA Deep Dive C#.csproj",
-        "packagesPath": "C:\\Users\\DevelopHP2\\.nuget\\packages\\",
-        "outputPath": "C:\\work\\DSA-C-DeepDive\\obj\\",
+        "projectPath": "/home/scott/work/DSA-C-DeepDive/DSA Deep Dive C#.csproj",
+        "packagesPath": "/home/scott/.nuget/packages/",
+        "outputPath": "/home/scott/work/DSA-C-DeepDive/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\DevelopHP2\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/scott/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,8 +37,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -65,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.418/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,12 +1,18 @@
-﻿
+﻿using System;
+using DSA_Deep_Dive_C_.Patterns;
 
-using DSA_Deep_Dive_C_.Algorithms.Strings;
-Anagram ano = new Anagram("Listen", "Silent");
-
-Console.WriteLine(ano.isAnagram());
-static void Main()
+Thread t1 = new Thread(() =>
 {
+   var instance= UploadService.Instance(1);
+});
 
+Thread t2 = new Thread(() =>
+{
+    var instance =UploadService.Instance(2);
+}); 
 
-
-}
+t1.Start();
+t2.Start();
+ 
+t1.Join();
+t2.Join();
