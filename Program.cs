@@ -1,18 +1,15 @@
 ﻿using System;
+using System.Reflection.Metadata;
 using DSA_Deep_Dive_C_.Patterns;
 
-Thread t1 = new Thread(() =>
-{
-   var instance= UploadService.Instance(1);
-});
 
-Thread t2 = new Thread(() =>
-{
-    var instance =UploadService.Instance(2);
-}); 
 
-t1.Start();
-t2.Start();
- 
-t1.Join();
-t2.Join();
+
+
+        var logger = Logger.Instance(1); 
+        var logger2 = Logger.Instance(2);
+
+
+        Console.WriteLine(logger.id);
+        Console.WriteLine(logger2.id);
+    
